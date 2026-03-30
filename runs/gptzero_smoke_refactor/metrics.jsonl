@@ -1,0 +1,6 @@
+{"step": 1, "loss/train": 9.231995582580566, "lr": 0.0003, "grad/global_norm": 0.9716848134994507, "perf/tokens_per_second": 3268.0021407179047, "perf/elapsed_seconds": 0.0783353220031131}
+{"step": 1, "loss/valid": 9.208887100219727}
+{"step": 2, "loss/train": 9.22229290008545, "lr": 0.0003, "grad/global_norm": 0.9354096055030823, "perf/tokens_per_second": 3309.2445752073486, "perf/elapsed_seconds": 0.15471808999427594}
+{"step": 2, "loss/valid": 9.221714973449707}
+{"step": 3, "loss/train": 9.161349296569824, "lr": 0.0003, "grad/global_norm": 1.0629650354385376, "perf/tokens_per_second": 16689.82343052999, "perf/elapsed_seconds": 0.04601606501091737}
+{"step": 3, "loss/valid": 9.185020446777344}

@@ -1,0 +1,12 @@
+{
+  "experiment_dir": "runs/gptzero_smoke_refactor",
+  "tensorboard_dir": "runs/gptzero_smoke_refactor/tensorboard",
+  "resumed_from_iteration": 2,
+  "iteration": 3,
+  "train_loss": 9.161349296569824,
+  "valid_loss": 9.185020446777344,
+  "best_valid_loss": 9.185020446777344,
+  "latest_checkpoint_path": "runs/gptzero_smoke_refactor/latest.pt",
+  "best_checkpoint_path": "runs/gptzero_smoke_refactor/best.pt",
+  "checkpoint_path": "checkpoints/gptzero_smoke.pt"
+}
